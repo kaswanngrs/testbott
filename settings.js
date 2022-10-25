@@ -26,24 +26,24 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Hentongers-Botz ☠️" //namabot kalian
-global.ownername= "W I L Y~Botz 😫" //nama kalian
+global.botname = "N E T'Z" //namabot kalian
+global.ownername= "O N E T'Z" //nama kalian
 global.myweb ="https://chat.whatsapp.com/FgWtKrL20EPIWOo82FQjBZ" //bebas asal jan hapus
 global.youtube = "https://youtu.be/nItJtDA7W2o" //bebas asal jan hapus
 global.myweb2 = "https://chat.whatsapp.com/FgWtKrL20EPIWOo82FQjBZ" //bebas
-global.email = "kunwily1994@gmail.com" //bebas
+global.email = "onetz@my.id" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6289688206739'] //premium user
-global.owner = ["6289688206739","6289688206739"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6289688206739" // nomor wa kalian
-global.ownernomerr = "+6289688206739" //nmr wa kalian
+global.premium = ['6282296483289'] //premium user
+global.owner = ["6285823411987","6289688206739"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6285823411987" // nomor wa kalian
+global.ownernomerr = "+6285823411987" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/5dbe99282d87aadce89f0.mp4'
-global.packname = '💥Team~Stickers' //sticker wm ubah
-global.author = 'Di Buat Oleh W I L Y 😁' //sticker wm ganti nama kalian
+global.packname = 'N E T'Z' //sticker wm ubah
+global.author = 'O N E T'Z' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
@@ -117,7 +117,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗Done, Oke Desu~',
+    sukses: 'Done, Oke',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
     owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
